@@ -2,7 +2,7 @@
 
  
 ## 📚 Trabajos Academicos
-### 🛡️💻 [TFC-Especialista en ciberseguridad-Fundación GoodJob](https://github.com/dablara/dablara/tree/main/Proyectos%20Acad%C3%A9micos)
+### 🛡️💻 [TFC-Especialista en ciberseguridad-Fundación GoodJob](https://github.com/dablara/dablara/blob/main/Proyectos%20Acad%C3%A9micos/BlancoArandaDanielTFC.pdf)
  * Proyecto: Ciberinteligencia y Evaluación de Riesgos frente a
  Amenazas Persistentes Avanzadas (APT) en el entorno
  corporativo.
