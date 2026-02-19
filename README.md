@@ -6,7 +6,7 @@ Con ganas de tener una oportunidad de demostrar mis habilidades en el sector, he
 
 Mi objetivo es encontrar una oportunidad en el ámbito de la Ciberseguridad, donde pueda aplicar mis conocimientos y seguir aprendiendo y creciendo profesionalmente
  
-## 📚 Trabajos Academicos
+## 📚 [Trabajos Academicos](https://github.com/dablara/dablara/tree/main/Proyectos%20Acad%C3%A9micos)
 ### 🛡️💻 [TFC-Especialista en ciberseguridad-Fundación GoodJob](https://github.com/dablara/dablara/blob/main/Proyectos%20Acad%C3%A9micos/BlancoArandaDanielTFC.pdf)
  * Proyecto: Ciberinteligencia y Evaluación de Riesgos frente a
  Amenazas Persistentes Avanzadas (APT) en el entorno
@@ -21,4 +21,5 @@ Informática del centro escolar
   * Inventario tecnológico:** Estudio detallado para crear un inventario completo y actualizado de activos del departamento.
   * Automatización con scripts:** Desarrollo de scripts para incorporación automática en GLPI, mejorando eficiencia y reduciendo errores.
   * Gestión de incidencias:** Diseño e implementación de un sistema en GLPI para registro y seguimiento eficiente de incidencias.
-## 🚀✨ Proyectos Personales
+## 🚀✨ Proyectos Personales()
+### WriteUp SnortChallenge-Tryhackme
