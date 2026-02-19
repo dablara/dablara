@@ -259,12 +259,6 @@ Este proyecto puede ser compartido y adaptado.
 
 ---
 
-##  Contacto
-
-Daniel Blanco Aranda  
-
-<a href="https://www.linkedin.com/in/dablara/" target="_blank" rel="noopener noreferrer">Mi LinkedIn</a>
-
 *Contribuciones y sugerencias bienvenidas.*
 
 ---

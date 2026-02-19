@@ -23,5 +23,6 @@ Informática del centro escolar
   * Gestión de incidencias:** Diseño e implementación de un sistema en GLPI para registro y seguimiento eficiente de incidencias.
 ## 🚀✨ Proyectos Personales()
 ### 🕵️‍♂️💻 **WriteUp SnortChallenge - TryHackMe**
-### 
+### 🍓🕳️ **Pihole en Raspberry pi**
+ * Despliegue e instalación de Pi-hole en la red doméstica
 
