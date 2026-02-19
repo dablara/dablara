@@ -33,7 +33,7 @@ Filtra las solicitudes de dominios no deseados, funcionando como un servidor DNS
 
 Se configura generalmente en tu router, por lo que cualquier dispositivo que se conecte a tu red estará protegido de manera automática.
 
-![Funcionamiento de Pi-Hole](https://github.com/dablara/Proyectos-Personales/blob/main/Pi-HoleRaspberryPi/Imagenes/fun_pihole.png)
+![Funcionamiento de Pi-Hole](https://github.com/dablara/dablara/blob/main/Proyectos%20Personales/Pi-HoleRaspberryPi/Imagenes/fun_pihole.png)
 *Figura 1: Funcionamiento Pi-Hole*
 
 ---
@@ -104,7 +104,7 @@ Abre en navegador:
 `http://<IP_DE_LA_RASPBERRY>:9000`  
 Crea usuario, accede al panel y selecciona “Live Connect” para ver los contenedores.
 
-![Portainer](https://github.com/dablara/Proyectos-Personales/blob/main/Pi-HoleRaspberryPi/Imagenes/portainer.png)
+![Portainer](https://github.com/dablara/dablara/blob/main/Proyectos%20Personales/Pi-HoleRaspberryPi/Imagenes/portainer.png)
 *Figura 2: Portainer*
 
 ---
@@ -201,19 +201,19 @@ DNS secundario: 1.1.1.1 (Cloudflare) u otro de tu preferencia
 
 Aqui se muestra una vista de Pi-Hole, ya instalado y con tres clientes
 
-![pihole](https://github.com/dablara/Proyectos-Personales/blob/main/Pi-HoleRaspberryPi/Imagenes/piholevista.png)
+![pihole](https://github.com/dablara/dablara/blob/main/Proyectos%20Personales/Pi-HoleRaspberryPi/Imagenes/piholevista.png)
 *Figura 3: Pi-Hole ya montado.*
 
 ---
 ## Añadir Listas de Bloqueo
 Puedes encontrar en internet múltiples listas que te ayudarán a bloquear anuncios, rastreadores y demás. 
 Solo debes agregar la URL y seleccionar 'Add Blocklist'
-![bloquear](https://github.com/dablara/Proyectos-Personales/blob/main/Pi-HoleRaspberryPi/Imagenes/block.png)
+![bloquear](https://github.com/dablara/dablara/blob/main/Proyectos%20Personales/Pi-HoleRaspberryPi/Imagenes/block.png)
 *Figura 4: Añadir Listas de Bloqueo*
 
 Despues de hacer esto debes dirigirte a Tools-->Update Gravity para actulizar la lista 
 
-![Update](https://github.com/dablara/Proyectos-Personales/blob/main/Pi-HoleRaspberryPi/Imagenes/up.png)
+![Update](https://github.com/dablara/dablara/blob/main/Proyectos%20Personales/Pi-HoleRaspberryPi/Imagenes/up.png)
 *Figura 5: Actulizar la lista de bloqueo*
 
 Finalmente Pi-Hole, empezara a realizar su trabajo.
