@@ -23,6 +23,6 @@ Informática del centro escolar
   * Gestión de incidencias:** Diseño e implementación de un sistema en GLPI para registro y seguimiento eficiente de incidencias.
 ## 🚀✨ [Proyectos Personales](https://github.com/dablara/dablara/tree/main/Proyectos%20Personales/Pi-HoleRaspberryPi)
 ### 🕵️‍♂️💻 **WriteUp SnortChallenge - TryHackMe**
-### 🍓🕳️ **[Pihole en Raspberry pi]**(http://github.com/dablara/dablara/tree/main/Proyectos%20Personales/Pi-HoleRaspberryPi)
+### 🍓🕳️ [**Pihole en Raspberry pi**](http://github.com/dablara/dablara/tree/main/Proyectos%20Personales/Pi-HoleRaspberryPi)
  * Despliegue e instalación de Pi-hole en la red doméstica
 
