@@ -21,3 +21,4 @@ Informática del centro escolar
   * Inventario tecnológico:** Estudio detallado para crear un inventario completo y actualizado de activos del departamento.
   * Automatización con scripts:** Desarrollo de scripts para incorporación automática en GLPI, mejorando eficiencia y reduciendo errores.
   * Gestión de incidencias:** Diseño e implementación de un sistema en GLPI para registro y seguimiento eficiente de incidencias.
+## 🚀✨ Proyectos Personales
