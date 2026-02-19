@@ -14,7 +14,7 @@ Mi objetivo es encontrar una oportunidad en el ámbito de la Ciberseguridad, don
    * Estudio de una empresa líder, identificando objetivos estratégicos, líneas de negocio y vulnerabilidades.
    * Investigación de actores de APT y valoración de riesgos y mitigaciones.
    * Análisis de exposición de activos críticos para reducir superficie de ataque y reforzar la resiliencia.
-### 🖥️📡🎓[TFG-Técnico Superior en Administración de Sistemas Operativos en Red](https://github.com/iesgrancapitan-proyectos/Proyecto-DanielBlanco-y-PacoBascon/tree/main?tab=readme-ov-file)
+### 📡🎓[TFG-Técnico Superior en Administración de Sistemas Operativos en Red](https://github.com/iesgrancapitan-proyectos/Proyecto-DanielBlanco-y-PacoBascon/tree/main?tab=readme-ov-file)
 * Proyecto: Instalación e Implementación de GLPI como herramienta
 de gestión de incidencias y activos en el Departamento de
 Informática del centro escolar
