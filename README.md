@@ -22,4 +22,5 @@ Informática del centro escolar
   * Automatización con scripts:** Desarrollo de scripts para incorporación automática en GLPI, mejorando eficiencia y reduciendo errores.
   * Gestión de incidencias:** Diseño e implementación de un sistema en GLPI para registro y seguimiento eficiente de incidencias.
 ## 🚀✨ Proyectos Personales()
-### WriteUp SnortChallenge-Tryhackme
+### 🕵️‍♂️💻 **WriteUp SnortChallenge - TryHackMe**
+
