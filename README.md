@@ -1,5 +1,10 @@
 ## Hola me presento 👋
+### Soy Daniel Me dedico a la Administración de Sistemas,
+### Tengo formación en Servidores y Ciberseguridad y todo lo que engloba a estos.
 
+### Con ganas de tener una oportunidad de demostrar mis habilidades en el sector, he adquirido experiencia práctica en diversas áreas relacionadas. 
+
+### Mi objetivo es encontrar una oportunidad en el ámbito de la Ciberseguridad, donde pueda aplicar mis conocimientos y seguir aprendiendo y creciendo profesionalmente
  
 ## 📚 Trabajos Academicos
 ### 🛡️💻 [TFC-Especialista en ciberseguridad-Fundación GoodJob](https://github.com/dablara/dablara/blob/main/Proyectos%20Acad%C3%A9micos/BlancoArandaDanielTFC.pdf)
@@ -7,8 +12,8 @@
  Amenazas Persistentes Avanzadas (APT) en el entorno
  corporativo.
    * Estudio de una empresa líder, identificando objetivos estratégicos, líneas de negocio y vulnerabilidades.
-  * Investigación de actores de APT y valoración de riesgos y mitigaciones.
-  * Análisis de exposición de activos críticos para reducir superficie de ataque y reforzar la resiliencia.
+   * Investigación de actores de APT y valoración de riesgos y mitigaciones.
+   * Análisis de exposición de activos críticos para reducir superficie de ataque y reforzar la resiliencia.
 ### 🖥️📡🎓[TFG-Técnico Superior en Administración de Sistemas Operativos en Red](https://github.com/iesgrancapitan-proyectos/Proyecto-DanielBlanco-y-PacoBascon/tree/main?tab=readme-ov-file)
 * Proyecto: Instalación e Implementación de GLPI como herramienta
 de gestión de incidencias y activos en el Departamento de
