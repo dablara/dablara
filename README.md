@@ -14,7 +14,7 @@ soluciones adaptadas al contexto empresarial.
 actores de APT con mayor probabilidad de dirigir ataques a la
 organización, valorando los riesgos y las medidas de mitigación
 aplicables.
-  * Protección de activos críticos: Análisis del grado de exposición
+   * Protección de activos críticos: Análisis del grado de exposición
 de un activo estratégico de la empresa, con el fin de reducir la
 superficie de ataque y reforzar la resiliencia frente a
 ciberamenazas.
