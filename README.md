@@ -6,15 +6,13 @@
  * Proyecto: Ciberinteligencia y Evaluación de Riesgos frente a
  Amenazas Persistentes Avanzadas (APT) en el entorno
  corporativo.
-   * Análisis corporativo: Estudio de una empresa puntera del
-sector, identificando sus objetivos estratégicos, líneas de
-negocio, potenciales vulnerabilidades y proponiendo
-soluciones adaptadas al contexto empresarial.
-   * Evaluación de amenazas avanzadas: Investigación de posibles
-actores de APT con mayor probabilidad de dirigir ataques a la
-organización, valorando los riesgos y las medidas de mitigación
-aplicables.
-   * Protección de activos críticos: Análisis del grado de exposición
-de un activo estratégico de la empresa, con el fin de reducir la
-superficie de ataque y reforzar la resiliencia frente a
-ciberamenazas.
+   * Estudio de una empresa líder, identificando objetivos estratégicos, líneas de negocio y vulnerabilidades.
+  * Investigación de actores de APT y valoración de riesgos y mitigaciones.
+  * Análisis de exposición de activos críticos para reducir superficie de ataque y reforzar la resiliencia.
+### 🖥️📡🎓TFG-Técnico Superior en Administración de Sistemas Operativos en Red
+* Proyecto: Instalación e Implementación de GLPI como herramienta
+de gestión de incidencias y activos en el Departamento de
+Informática del centro escolar
+  * Inventario tecnológico:** Estudio detallado para crear un inventario completo y actualizado de activos del departamento.
+  * Automatización con scripts:** Desarrollo de scripts para incorporación automática en GLPI, mejorando eficiencia y reduciendo errores.
+  * Gestión de incidencias:** Diseño e implementación de un sistema en GLPI para registro y seguimiento eficiente de incidencias.
