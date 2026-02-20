@@ -64,7 +64,3 @@ La pregunta nos dice lo siguiente: “¿Cuál es el número de paquetes detectad
 Con la ejecución del comando anterior `sudo snort -c local.rules -A full -l . -r mx-3.pcap`, obtendremos la respuesta, si analizamos la información ofrecida por el comando, sabemos que el número de paquetes es 164.ç
 
 ![Respuesta1](imagenes/r1p1.png)
-
-### Pregunta 2 Reto 1
-La segunda pregunta del reto es la siguiente
-La segunda pregunta del reto es la siguiente
