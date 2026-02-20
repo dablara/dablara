@@ -50,4 +50,4 @@ Gracias a esto, podremos responder las siguientes preguntas que el reto nos pres
 
 Una vez ejecutado el comando, se mostrará un resumen del tráfico recogido, como se observa en la siguiente imagen:
 
-![Ejecucion Comando](imagenes/ejecucioncomando)
+![Ejecucion Comando](imagenes/ejecucioncomando.png)
