@@ -1,8 +1,8 @@
 # Write Up Snort Challenge- The Basics TryHackMe
  ## Índice
    - [Preámbulo](#preámbulo)
-  * Escenario
-  * 1º Reto Analizando Tráfico HTTP ...
+   - [Escenario](#escenario)
+   - [1º Reto Analizando Tráfico HTTP](# 1º Reto Analizando Tráfico HTTP)
     * -[Pregunta 1 Reto 1]
     * Pregunta 2 Reto 1
     * Pregunta 3 Reto 1
