@@ -21,4 +21,10 @@ Este documento técnico tiene los siguientes objetivos:
  * Aprender y practicar el uso de reglas de Snort para analizar   tráfico en tiempo
  real.
 ## Escenario
+El escenario que TryHackMe nos presenta consiste en una máquina basada en Linux y
+varios archivos que contienen comunicaciones de diferentes protocolos de red.
+Mediante la creación y aplicación de reglas, y utilizando Snort como sistema de
+detección y análisis, podremos inspeccionar y analizar ese tráfico en tiempo real para
+identificar eventos relevantes y entender el comportamiento de la red.
+![Escenario](imagenes/escenario.jpg)
 ## Reto 1 - Analizando Trafico HTTP
