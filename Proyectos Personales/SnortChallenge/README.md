@@ -26,5 +26,6 @@ varios archivos que contienen comunicaciones de diferentes protocolos de red.
 Mediante la creación y aplicación de reglas, y utilizando Snort como sistema de
 detección y análisis, podremos inspeccionar y analizar ese tráfico en tiempo real para
 identificar eventos relevantes y entender el comportamiento de la red.
+
 ![Escenario](imagenes/escenario.png)
 ## Reto 1 - Analizando Trafico HTTP
