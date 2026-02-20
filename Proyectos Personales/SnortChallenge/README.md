@@ -4,7 +4,7 @@
    - [Escenario](#escenario)
    - [Reto 1 - Analizando Trafico HTTP](#reto-1---analizando-trafico-http)
      - [Pregunta 1 Reto 1](#pregunta-1-reto-1)
-     - Pregunta 2 Reto 1
+     - [Pregunta 2 Reto 1](#pregunta-2-reto-1))
      - Pregunta 3 Reto 1
      - Pregunta 4 Reto 1
      - Pregunta 5 Reto 1
@@ -64,3 +64,7 @@ La pregunta nos dice lo siguiente: “¿Cuál es el número de paquetes detectad
 Con la ejecución del comando anterior `sudo snort -c local.rules -A full -l . -r mx-3.pcap`, obtendremos la respuesta, si analizamos la información ofrecida por el comando, sabemos que el número de paquetes es 164.ç
 
 ![Respuesta1](imagenes/r1p1.png)
+
+### Pregunta 2 Reto 1
+La segunda pregunta del reto es la siguiente
+La segunda pregunta del reto es la siguiente
