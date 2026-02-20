@@ -58,3 +58,9 @@ Después de la ejecución, se generará un archivo de logs, el cual tendremos qu
 La primera pregunta del reto nos presenta, lo siguiente.
 
 ![Pregunta 1 Reto 1](imagenes/p1r1.png)
+
+La pregunta nos dice lo siguiente: “¿Cuál es el número de paquetes detectados?”
+
+Con la ejecución del comando anterior `sudo snort -c local.rules -A full -l . -r mx-3.pcap`, obtendremos la respuesta, si analizamos la información ofrecida por el comando, sabemos que el número de paquetes es 164.ç
+
+![Respuesta1](imagenes/r1p1.png)
