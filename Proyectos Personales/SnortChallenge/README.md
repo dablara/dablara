@@ -55,3 +55,6 @@ Una vez ejecutado el comando, se mostrará un resumen del tráfico recogido, com
 Después de la ejecución, se generará un archivo de logs, el cual tendremos que analizar, ya que contendrá la información relevante para continuar con el reto.
 
 ### Pregunta 1 Reto 1
+La primera pregunta del reto nos presenta, lo siguiente.
+
+![Pregunta 1 Reto 1](imagenes/p1r1.png)
