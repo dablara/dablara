@@ -21,9 +21,10 @@ Mi objetivo es encontrar una oportunidad en el ámbito de la Ciberseguridad, don
 * Proyecto: Instalación e Implementación de GLPI como herramienta
 de gestión de incidencias y activos en el Departamento de
 Informática del centro escolar
-  * Inventario tecnológico:** Estudio detallado para crear un inventario completo y actualizado de activos del departamento.
-  * Automatización con scripts:** Desarrollo de scripts para incorporación automática en GLPI, mejorando eficiencia y reduciendo errores.
-  * Gestión de incidencias:** Diseño e implementación de un sistema en GLPI para registro y seguimiento eficiente de incidencias.
+  * Inventario tecnológico: Estudio detallado para crear un inventario completo y actualizado de activos del departamento.
+  * Automatización con scripts: Desarrollo de scripts para incorporación automática en GLPI, mejorando eficiencia y reduciendo errores.
+  * Gestión de incidencias: Diseño e implementación de un sistema en GLPI para registro y seguimiento eficiente de incidencias.
+
 ## 🚀✨ [Proyectos Personales](https://github.com/dablara/dablara/tree/main/Proyectos%20Personales/Pi-HoleRaspberryPi)
 ### 🕵️‍♂️💻      WriteUp SnortChallenge - TryHackMe 
 ### 🍓🕳️  [   Pihole en Raspberry pi  ](http://github.com/dablara/dablara/tree/main/Proyectos%20Personales/Pi-HoleRaspberryPi)
