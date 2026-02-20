@@ -34,9 +34,11 @@ datos capturados del tráfico de red, y un archivo de reglas locales (“local.r
 cual escribiremos las reglas necesarias para analizar dicho tráfico utilizando Snort
 
 ![Reto 1](imagenes/reto1.png)
+
 La primera tarea del reto consiste en escribir una regla que permita detectar todo el tráfico TCP que se origine desde o se dirija hacia el puerto 80.
 
 ![Regla Puerto 80](imagenes/puerto80.png)
+
 Una vez escrita, usaremos el archivo para detectar el tráfico dentro del archivo “.pcap”, con el uso del siguiente comando
 
 ![Comando Snort](imagenes/comandosnort.png)
