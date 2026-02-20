@@ -29,3 +29,8 @@ identificar eventos relevantes y entender el comportamiento de la red.
 
 ![Escenario](imagenes/escenario.png)
 ## Reto 1 - Analizando Trafico HTTP
+En este primer reto se nos presentan dos archivos: un archivo .pcap, que contiene los
+datos capturados del tráfico de red, y un archivo de reglas locales (“local.rules”), en el
+cual escribiremos las reglas necesarias para analizar dicho tráfico utilizando Snort
+
+![Reto 1](imagenes/reto1)
