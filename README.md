@@ -6,8 +6,9 @@ Con ganas de tener una oportunidad de demostrar mis habilidades en el sector, he
 
 Mi objetivo es encontrar una oportunidad en el ámbito de la Ciberseguridad, donde pueda aplicar mis conocimientos y seguir aprendiendo y creciendo profesionalmente.
 
-## Educación y Certificaciones
+## 🎓🏅 Educación y Certificaciones
  * Titulación en Administración de Sistemas Informáticos en Red
+ * Titulación Ciberseguridad avanzada en entornos de tecnologías de la operación
 ## 📚 [Trabajos Academicos](https://github.com/dablara/dablara/tree/main/Proyectos%20Acad%C3%A9micos)
 ### 🛡️💻 [TFC-Especialista en ciberseguridad-Fundación GoodJob](https://github.com/dablara/dablara/blob/main/Proyectos%20Acad%C3%A9micos/BlancoArandaDanielTFC.pdf)
  * Proyecto: Ciberinteligencia y Evaluación de Riesgos frente a
