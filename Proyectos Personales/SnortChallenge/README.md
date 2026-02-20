@@ -41,7 +41,7 @@ La primera tarea del reto consiste en escribir una regla que permita detectar to
 
 Una vez escrita, usaremos el archivo para detectar el tráfico dentro del archivo “.pcap”, con el uso del siguiente comando
 
-![Comando Snort](imagenes/comandosnort.png)
+Ejecutamos `sudo snort -c local.rules -A full -l . -r mx-3.pcap` para analizar el archivo pcap.
 
 Este comando ejecuta Snort utilizando las reglas definidas en el archivo local.rules (-c),
 en modo de alerta detallada (-A full), guardando la salida en el directorio actual (-l .) y analizando el archivo de captura mx-3.pcap (-r). 
