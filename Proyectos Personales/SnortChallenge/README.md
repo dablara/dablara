@@ -3,7 +3,7 @@
    - [Preámbulo](#preámbulo)
    - [Escenario](#escenario)
    - [Reto 1 - Analizando Trafico HTTP](#reto-1---analizando-trafico-http)
-     - [Pregunta 1 Reto 1]
+     - [Pregunta 1 Reto 1](#pregunta-1-reto-1)
      - Pregunta 2 Reto 1
      - Pregunta 3 Reto 1
      - Pregunta 4 Reto 1
@@ -51,3 +51,7 @@ Gracias a esto, podremos responder las siguientes preguntas que el reto nos pres
 Una vez ejecutado el comando, se mostrará un resumen del tráfico recogido, como se observa en la siguiente imagen:
 
 ![Ejecucion Comando](imagenes/ejecucioncomando.png)
+
+Después de la ejecución, se generará un archivo de logs, el cual tendremos que analizar, ya que contendrá la información relevante para continuar con el reto.
+
+### Pregunta 1 Reto 1
