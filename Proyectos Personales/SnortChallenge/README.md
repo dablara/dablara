@@ -23,15 +23,11 @@ Este documento técnico tiene los siguientes objetivos:
 ## Escenario
 El escenario que TryHackMe nos presenta consiste en una máquina basada en Linux y
 varios archivos que contienen comunicaciones de diferentes protocolos de red.
-Mediante la creación y aplicación de reglas, y utilizando Snort como sistema de
-detección y análisis, podremos inspeccionar y analizar ese tráfico en tiempo real para
-identificar eventos relevantes y entender el comportamiento de la red.
+Mediante la creación y aplicación de reglas, y utilizando Snort como sistema de detección y análisis, podremos inspeccionar y analizar ese tráfico en tiempo real para identificar eventos relevantes y entender el comportamiento de la red.
 
 ![Escenario](imagenes/escenario.png)
 ## Reto 1 - Analizando Trafico HTTP
-En este primer reto se nos presentan dos archivos: un archivo .pcap, que contiene los
-datos capturados del tráfico de red, y un archivo de reglas locales (“local.rules”), en el
-cual escribiremos las reglas necesarias para analizar dicho tráfico utilizando Snort
+En este primer reto se nos presentan dos archivos: un archivo .pcap, que contiene los datos capturados del tráfico de red, y un archivo de reglas locales (“local.rules”), en el cual escribiremos las reglas necesarias para analizar dicho tráfico utilizando Snort
 
 ![Reto 1](imagenes/reto1.png)
 
@@ -93,4 +89,5 @@ El ACK number (Acknowledgment Number) es el valor que indica al otro extremo que
 Para conocer este número haremos uso nuevamente del archivo de logs obtuvimos en la primera pregunta.
 
 Haremos uso del mismo comando que usamos para ver la información del paquete 63 pero en este caso será del paquete 64
-sudo snort -r snort.log.1759422256 -n 64
+
+`sudo snort -r snort.log.1759422256 -n 64
