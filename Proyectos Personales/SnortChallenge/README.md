@@ -66,4 +66,7 @@ Con la ejecución del comando anterior `sudo snort -c local.rules -A full -l . -
 ![Respuesta1](imagenes/r1p1.png)
 
 ## Pregunta 2 Reto 1
+La segunda pregunta del reto es la siguiente
+
+![Paquete63](imagenes/9a.png)
 
