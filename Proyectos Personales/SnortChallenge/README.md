@@ -94,5 +94,6 @@ Haremos uso del mismo comando que usamos para ver la información del paquete 63
 `sudo snort -r snort.log.1759422256 -n 64`
 
 La salida del cual será la información antes vista, en este caso buscaremos el número ACK.
+Fijándonos en la información obtenida, sabemos que la respuesta es la obtenida.
 
 ![ACK2](imagenes/13.png)
