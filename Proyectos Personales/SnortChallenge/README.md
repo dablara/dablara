@@ -57,7 +57,7 @@ La primera pregunta del reto nos presenta, lo siguiente.
 
 La pregunta nos dice lo siguiente: “¿Cuál es el número de paquetes detectados?”
 
-Con la ejecución del comando anterior `sudo snort -c local.rules -A full -l . -r mx-3.pcap`, obtendremos la respuesta, si analizamos la información ofrecida por el comando, sabemos que el número de paquetes es 164.
+Con la ejecución del comando anterior `sudo snort -c local.rules -A full -l . -r mx-3.pcap`, obtendremos la respuesta, si  analizamos la información ofrecida por el comando, sabemos que el número de paquetes es 164.
 
 ![Respuesta1](imagenes/r1p1.png)
 
@@ -73,6 +73,7 @@ Con el uso de comandos Snort, analizamos el documento de logs y especificamos qu
 ![Paquete63a](imagenes/9.png)
 
 La salida del comando es una seria de información, en este caso del paquete 63
+
 Analizando el contenido nos damos cuenta de que se nos presenta información referente a las conexiones en el puerto: dirección de origen,destino,TTL,etc.
 
 Fijándonos en la IP “216.239.59.99”, nos damos cuenta de que esta es la respuesta correcta.
@@ -91,3 +92,6 @@ Para conocer este número haremos uso nuevamente del archivo de logs obtuvimos e
 Haremos uso del mismo comando que usamos para ver la información del paquete 63 pero en este caso será del paquete 64
 
 `sudo snort -r snort.log.1759422256 -n 64`
+La salida del cual será la información antes vista, en este caso buscaremos el número ACK.
+
+![ACK2](imagenes/13.png)
