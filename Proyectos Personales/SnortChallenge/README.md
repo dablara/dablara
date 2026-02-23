@@ -5,7 +5,7 @@
    - [Reto 1 - Analizando Trafico HTTP](#reto-1---analizando-trafico-http)
      - [Pregunta 1 Reto 1](#pregunta-1-reto-1)
      - [Pregunta 2 Reto 1](#pregunta-2-reto-1)
-     - Pregunta 3 Reto 1
+     - [Pregunta 3 Reto 1](#pregunta-3-reto-1)
      - Pregunta 4 Reto 1
      - Pregunta 5 Reto 1
      - Pregunta 6 Reto 1 
@@ -82,4 +82,4 @@ Analizando el contenido nos damos cuenta de que se nos presenta información ref
 Fijándonos en la IP “216.239.59.99”, nos damos cuenta de que esta es la respuesta correcta.
 
 ![Direccion63](imagenes/10.png)
-
+## Pregunta 3 Reto 1
