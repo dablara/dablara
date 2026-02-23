@@ -83,3 +83,7 @@ Fijándonos en la IP “216.239.59.99”, nos damos cuenta de que esta es la res
 
 ![Direccion63](imagenes/10.png)
 ## Pregunta 3 Reto 1
+
+Ahora la pregunta que nos plantea es la siguiente
+
+![ACK](imgaenes/12.png)
