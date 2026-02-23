@@ -69,4 +69,4 @@ Con la ejecución del comando anterior `sudo snort -c local.rules -A full -l . -
 La segunda pregunta del reto es la siguiente
 
 ![Paquete63](imagenes/9a.png)
-
+*Pie de foto*
