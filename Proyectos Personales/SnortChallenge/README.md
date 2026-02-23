@@ -87,3 +87,10 @@ Fijándonos en la IP “216.239.59.99”, nos damos cuenta de que esta es la res
 Ahora la pregunta que nos plantea es la siguiente
 
 ![ACK](imagenes/12.png)
+La cual nos pide “¿Cuál es el numero ACK del paquete 64?”
+El ACK number (Acknowledgment Number) es el valor que indica al otro extremo que los datos se han recibido correctamente.
+
+Para conocer este número haremos uso nuevamente del archivo de logs obtuvimos en la primera pregunta.
+
+Haremos uso del mismo comando que usamos para ver la información del paquete 63 pero en este caso será del paquete 64
+sudo snort -r snort.log.1759422256 -n 64
