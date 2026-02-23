@@ -70,4 +70,8 @@ La segunda pregunta del reto es la siguiente
 
 ![Paquete63](imagenes/9a.png)
 
-*Pie de foto*
+Dicha pregunta, nos pide “¿Cuál es la dirección de destino del paquete 63?.
+
+Con el uso de comandos Snort, analizamos el documento de logs y especificamos que nos muestre lo referente al paquete 63.
+
+![Paquete63a](imagenes/9.png)
