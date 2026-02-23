@@ -86,4 +86,4 @@ Fijándonos en la IP “216.239.59.99”, nos damos cuenta de que esta es la res
 
 Ahora la pregunta que nos plantea es la siguiente
 
-![ACK](imgaenes/12.png)
+![ACK](imagenes/12.png)
