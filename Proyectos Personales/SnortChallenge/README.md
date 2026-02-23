@@ -90,4 +90,4 @@ Para conocer este número haremos uso nuevamente del archivo de logs obtuvimos e
 
 Haremos uso del mismo comando que usamos para ver la información del paquete 63 pero en este caso será del paquete 64
 
-`sudo snort -r snort.log.1759422256 -n 64
+`sudo snort -r snort.log.1759422256 -n 64`
