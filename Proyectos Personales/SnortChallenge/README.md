@@ -75,3 +75,11 @@ Dicha pregunta, nos pide “¿Cuál es la dirección de destino del paquete 63?.
 Con el uso de comandos Snort, analizamos el documento de logs y especificamos que nos muestre lo referente al paquete 63.
 
 ![Paquete63a](imagenes/9.png)
+
+La salida del comando es una seria de información, en este caso del paquete 63
+Analizando el contenido nos damos cuenta de que se nos presenta información referente a las conexiones en el puerto: dirección de origen,destino,TTL,etc.
+
+Fijándonos en la IP “216.239.59.99”, nos damos cuenta de que esta es la respuesta correcta.
+
+![Direccion63](imagenes/10.png)
+
