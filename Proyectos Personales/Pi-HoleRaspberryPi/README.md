@@ -16,11 +16,12 @@
    - [Instalar Portainer](#instalar-portainer)
    - [Instalar Pi-hole](#instalar-pi-hole)
 4. [Gestión desde Portainer](#gestión-desde-portainer)  
-5. [Miscelánea](#miscelánea)  
-6. [Configuración DNS en los clientes](#configuración-dns-en-los-clientes)  
-7. [Posibles errores](#posibles-errores)
-8. [Licencia](#licencia)
-9. [Contacto](#contacto)
+5. [Gestión desde Terminal](#gestión-desde-terminal)
+6. [Miscelánea](#miscelánea)  
+7. [Configuración DNS en los clientes](#configuración-dns-en-los-clientes)  
+8. [Posibles errores](#posibles-errores)
+9. [Licencia](#licencia)
+10. [Contacto](#contacto)
 
 
 ---
@@ -174,11 +175,17 @@ Accede a:
 ---
 
 ## Gestión desde Terminal
-
+Pa poder comprobar el estado del contenedor usaremos el siguiente comando.
 ```bash
-dietpi@DietPi:~$ docker ps | grep pihole
+ docker ps | grep pihole
 40e5ae284dec   pihole/pihole:latest   "start.sh"   5 months ago   Up 37 hours (healthy)
 ```
+
+Para poder gestionar el propio contenedor usaremos el siguiente comando:
+
+```bash
+ docker exec -it pihole /bin/bash
+ ``
 
 ## Miscelánea
 
