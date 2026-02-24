@@ -185,7 +185,8 @@ Para poder gestionar el propio contenedor usaremos el siguiente comando:
 
 ```bash
  docker exec -it pihole /bin/bash
- ``
+ ``` 
+ 
 
 ## Miscelánea
 
