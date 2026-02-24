@@ -175,18 +175,18 @@ Accede a:
 ---
 
 ## Gestión desde Terminal
-Pa poder comprobar el estado del contenedor usaremos el siguiente comando.
+Para comprobar el estado del contenedor usaremos el siguiente comando.
 ```bash
  docker ps | grep pihole
 40e5ae284dec   pihole/pihole:latest   "start.sh"   5 months ago   Up 37 hours (healthy)
 ```
 
-Para poder gestionar el propio contenedor usaremos el siguiente comando:
+Para gestionar el propio contenedor usaremos el siguiente comando:
 
 ```bash
  docker exec -it pihole /bin/bash
  ``` 
- 
+
 
 ## Miscelánea
 
