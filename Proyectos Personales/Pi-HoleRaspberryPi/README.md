@@ -173,6 +173,13 @@ Accede a:
 
 ---
 
+## Gestión desde Terminal
+
+```bash
+dietpi@DietPi:~$ docker ps | grep pihole
+40e5ae284dec   pihole/pihole:latest   "start.sh"   5 months ago   Up 37 hours (healthy)
+```
+
 ## Miscelánea
 
 ### Respecto al docker_compose.yml
