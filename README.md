@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dablara&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dablara&theme=blood-dark&locale=es)](https://git.io/streak-stats)
 
 ## Hola me presento 👋
 Soy Daniel Me dedico a la Administración de Sistemas,
