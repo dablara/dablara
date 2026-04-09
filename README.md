@@ -1,8 +1,3 @@
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dablara&theme=blood-dark&locale=es)](https://git.io/streak-stats)
-
-
-
 ## Hola me presento 👋
 Soy Daniel Me dedico a la Administración de Sistemas,
 Tengo formación en Servidores y Ciberseguridad y todo lo que engloba a estos.
@@ -37,3 +32,5 @@ Informática del centro escolar
 
 ## 🤝 Contacto
 * [Mi Linkedin](https://es.linkedin.com/in/dablara)
+* [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dablara&theme=blood-dark&locale=es)](https://git.io/streak-stats)
+
