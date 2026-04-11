@@ -106,4 +106,12 @@ Siguiendo con el reto, nos presenta la siguiente pregunta
 
 La pregunta reza la siguiente: “¿Cuál es el número SEQ del paquete 65?”
 
-El **SEQ number (Sequence Number)**
+El **SEQ number (Sequence Number)** es un campo de la cabecera que indica el número de secuencia del primer byte de datos que se envía en un segmento. 
+
+Sirve para que el receptor sepa en que orden van los datos y pueda reensamblarlos correctamente. 
+
+Haciendo uso del siguiente comando podremos responder la pregunta 
+
+**sudo Snort -r snort.log.1759422257 -n 62"**
+
+![SEQ2](imagenes/SEQ2.png)
