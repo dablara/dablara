@@ -124,3 +124,5 @@ Dejándonos asi la respuesta correcta
 
 ![SEQ4](imagenes/SEQ4.png)
 
+## Pregunta 5 Reto 1
+
