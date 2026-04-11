@@ -8,9 +8,9 @@
      - [Pregunta 3 Reto 1](#pregunta-3-reto-1)
      - [Pregunta 4 Reto 1](#pregunta-4-reto-1)
      - [Pregunta 5 Reto 1](#pregunta-5-reto-1) 
-     - Pregunta 6 Reto 1 
-     - Pregunta 7 Reto 1 
-     - Conclusión Primer reto
+     - [Pregunta 6 Reto 1](#pregunta-6-reto-1)
+     - [Pregunta 7 Reto 1](#pregunta-7-reto-1)
+     - [Conclusión Primer reto](#conclusion-primer-reto)
 ## Preámbulo
 El análisis de tráfico de red en tiempo real es una habilidad esencial en ciberseguridad.
 Snort, como sistema de detección de intrusos (IDS), permite monitorear, registrar y
@@ -154,3 +154,12 @@ La penúltima pregunta tambien es referente al paquete 65 y es l siguiente
 
 ![IP1](imagenes/IP1.png)
 
+Dicha pregunta nos dice lo siguiente: "¿Cuál es la dirección de origen del paquete 65?"
+
+Analizando el archivo de logs, podremos obtener la respuesta
+
+![IP2](imagenes/IP2.png)
+
+Con la información obtenida deducimos que la dirección es: 145.254.160.237, sabiendo esto, podemos reponder la pregunta 
+
+![IP3](imagenes/IP3.png)
