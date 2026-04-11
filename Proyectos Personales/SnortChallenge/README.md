@@ -148,3 +148,9 @@ Sabiendo ahora el “TTL”, podemos responder la pregunta que se nos planteaba
 
 ![TTL4](imagenes/TTL4.png)
 
+## Pregunta 6 Reto 1 
+
+La penúltima pregunta tambien es referente al paquete 65 y es l siguiente
+
+![IP1](imagenes/IP1.png)
+
