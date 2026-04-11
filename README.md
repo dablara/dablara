@@ -33,6 +33,6 @@ Informática del centro escolar
  * Despliegue e instalación de Pi-hole en la red doméstica
 
 ## 🤝 Contacto
-* [Mi Linkedin](https://es.linkedin.com/in/dablara)
+* [Mi Linkedin](https://es.linkedin.com/in/dablara).
 
 
