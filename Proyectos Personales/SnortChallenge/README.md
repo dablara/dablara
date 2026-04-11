@@ -143,3 +143,8 @@ Analizaremos el archivo de logs con el siguiente comando
 Gracias a dicho comando obtenemos la información requerida
 
 ![TTL3](imagenes/TTL3.png)
+
+Sabiendo ahora el “TTL”, podemos responder la pregunta que se nos planteaba
+
+![TTL4](imagenes/TTL4.png)
+
