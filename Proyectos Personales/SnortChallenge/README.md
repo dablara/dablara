@@ -101,6 +101,7 @@ Fijándonos en la información obtenida, sabemos que la respuesta es la siguient
 
 ## Pregunta 4 Reto 1
 Siguiendo con el reto, nos presenta la siguiente pregunta
+
 ![SEQ1](imagenes/SEQ1.png)
 
 La pregunta reza la siguiente: “¿Cuál es el número SEQ del paquete 65?”
