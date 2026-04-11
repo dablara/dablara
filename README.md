@@ -1,3 +1,5 @@
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dablara&theme=blood-dark&locale=es)](https://git.io/streak-stats)
+
 ## Hola me presento 👋
 Soy Daniel Me dedico a la Administración de Sistemas,
 Tengo formación en Servidores y Ciberseguridad y todo lo que engloba a estos.
@@ -27,8 +29,10 @@ Informática del centro escolar
 
 ## 🚀✨ [Proyectos Personales](https://github.com/dablara/dablara/tree/main/Proyectos%20Personales/Pi-HoleRaspberryPi)
 ### 🕵️‍♂️💻      WriteUp SnortChallenge - TryHackMe 
-### 🍓🕳️  [   Pihole en Raspberry pi  ](http://github.com/dablara/dablara/tree/main/Proyectos%20Personales/Pi-HoleRaspberryPi)
+### 🍓🕳️  [   Pihole en Raspberry pi  ](https://github.com/dablara/dablara/blob/main/Proyectos%20Personales%2FPi-HoleRaspberryPi%2FREADME.md)
  * Despliegue e instalación de Pi-hole en la red doméstica
 
 ## 🤝 Contacto
 * [Mi Linkedin](https://es.linkedin.com/in/dablara)
+
+
