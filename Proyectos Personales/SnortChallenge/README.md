@@ -126,3 +126,6 @@ Dejándonos asi la respuesta correcta
 
 ## Pregunta 5 Reto 1
 
+Conituamos con las preguntas y la siguiente es esta
+
+![TTL1](imagenes/TTL1.png)
