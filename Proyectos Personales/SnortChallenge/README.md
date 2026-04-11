@@ -140,3 +140,6 @@ Analizaremos el archivo de logs con el siguiente comando
 
 ![TTL2](imagenes/TTL2.png)
 
+Gracias a dicho comando obtenemos la información requerida
+
+![TTL3](imagenes/TTL3.png)
