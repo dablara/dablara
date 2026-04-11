@@ -120,3 +120,7 @@ La salida del comando nos nuestra lo siguiente, dejando ver el número SEQ.
 
 ![SEQ3](imagenes/SEQ3.png)
 
+Dejándonos asi la respuesta correcta
+
+![SEQ4](imagenes/SEQ4.png)
+
