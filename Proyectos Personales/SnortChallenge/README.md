@@ -163,3 +163,30 @@ Analizando el archivo de logs, podremos obtener la respuesta
 Con la información obtenida deducimos que la dirección es: 145.254.160.237, sabiendo esto, podemos reponder la pregunta 
 
 ![IP3](imagenes/IP3.png)
+
+## Pregunta 7 Reto 1
+
+La última pregunta de este primero reto es la siguiente, tambien referente al paquete 65.
+
+![source1](imagenes/source1.png)
+
+La pregunta nos dice lo siguiente: “¿Cuál es el puerto de origen del paquete 65?”
+
+Analizando el archivo de logs, podremos saber la respuesta de la pregunta
+
+![source2](imagenes/source2.png)
+
+Si nos fijamos despues de la ip de origen le siguiente los dos puesto y seguidamente el
+puerto de origen, que en este caso es: 3372
+
+El puerto 3372 está asignado a TIP 2, pero rara vez se utiliza.
+
+Sabiendo esto podemos responder esta última pregunta
+
+![source3](imagenes/source3.png)
+
+## Conclusión Primer reto
+En este primer apartado se ha puesto en práctica el análisis del tráfico HTTP, el uso de
+Snort y el análisis de archivo de logs para analizar dicho tráfico.
+
+Permitiendo asi familiarizarse con el uso de esta herramienta.
