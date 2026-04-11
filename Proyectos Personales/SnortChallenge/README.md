@@ -6,8 +6,8 @@
      - [Pregunta 1 Reto 1](#pregunta-1-reto-1)
      - [Pregunta 2 Reto 1](#pregunta-2-reto-1)
      - [Pregunta 3 Reto 1](#pregunta-3-reto-1)
-     - Pregunta 4 Reto 1
-     - Pregunta 5 Reto 1
+     - [Pregunta 4 Reto 1](#pregunta-4-reto-1)
+     - [Pregunta 5 Reto 1](#pregunta-5-reto-1) 
      - Pregunta 6 Reto 1 
      - Pregunta 7 Reto 1 
      - Conclusión Primer reto
