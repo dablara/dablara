@@ -115,3 +115,8 @@ Haciendo uso del siguiente comando podremos responder la pregunta
 **sudo Snort -r snort.log.1759422257 -n 62"**
 
 ![SEQ2](imagenes/SEQ2.png)
+
+La salida del comando nos nuestra lo siguiente, dejando ver el número SEQ. 
+
+![SEQ3](imagenes/SEQ3.png)
+
