@@ -29,7 +29,7 @@ Informática del centro escolar
 
 ## 🚀✨ [Proyectos Personales](https://github.com/dablara/dablara/tree/main/Proyectos%20Personales/Pi-HoleRaspberryPi)
 ### 🕵️‍♂️💻      WriteUp SnortChallenge - TryHackMe 
-### 🍓🕳️  [   Pihole en Raspberry pi  ](http://github.com/dablara/dablara/tree/main/Proyectos%20Personales/Pi-HoleRaspberryPi)
+### 🍓🕳️  [   Pihole en Raspberry pi  ](https://github.com/dablara/dablara/blob/main/Proyectos%20Personales%2FPi-HoleRaspberryPi%2FREADME.md)
  * Despliegue e instalación de Pi-hole en la red doméstica
 
 ## 🤝 Contacto
