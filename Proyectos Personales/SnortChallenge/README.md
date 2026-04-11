@@ -98,3 +98,6 @@ La salida del cual será la información antes vista, en este caso buscaremos el
 Fijándonos en la información obtenida, sabemos que la respuesta es la siguiente.
 
 ![ACK2](imagenes/13.png)
+
+## Pregunta 4 Reto 1
+
