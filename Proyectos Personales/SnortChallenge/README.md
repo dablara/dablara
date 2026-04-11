@@ -129,3 +129,14 @@ Dejándonos asi la respuesta correcta
 Conituamos con las preguntas y la siguiente es esta
 
 ![TTL1](imagenes/TTL1.png)
+
+La cual nos pide lo siguiente: "¿Cuál es el TTL  del paquete 65?"
+
+El TTL (Time to Live) es el número de saltos que queda al paquete antes de ser descartado
+
+Analizaremos el archivo de logs con el siguiente comando
+
+**sudo Snort -r snort.log.175942256 -n 65"**
+
+![TTL2](imagenes/TTL2.png)
+
