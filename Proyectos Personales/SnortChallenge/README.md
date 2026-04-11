@@ -105,3 +105,5 @@ Siguiendo con el reto, nos presenta la siguiente pregunta
 ![SEQ1](imagenes/SEQ1.png)
 
 La pregunta reza la siguiente: “¿Cuál es el número SEQ del paquete 65?”
+
+El **SEQ number (Sequence Number)**
