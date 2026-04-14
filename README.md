@@ -29,6 +29,7 @@ Informática del centro escolar
 
 ## 🚀✨ [Proyectos Personales](https://github.com/dablara/dablara/tree/main/Proyectos%20Personales)
 ### 🐍⚙️ [Proyectos y Scripts de Python](https://github.com/dablara/ProyectodePython)
+ * Aqui encontraras mi trabajo y avance en Python
 ### 🕵️‍♂️💻      WriteUp SnortChallenge - TryHackMe 
 ### 🍓🕳️  [   Pihole en Raspberry pi  ](https://github.com/dablara/dablara/blob/main/Proyectos%20Personales%2FPi-HoleRaspberryPi%2FREADME.md)
  * Despliegue e instalación de Pi-hole en la red doméstica
