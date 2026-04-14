@@ -230,3 +230,13 @@ En la siguiente pregunta, se nos pide que fijemos una regla que detecte los inte
 *Es bueno que comentes o elimines la regla anterior, para que sea la nueva la se aplique.
 
 ![ftp6](imagenes/ftp6.png)
+
+Escribiremos la siguiente reglas, para conseguir el objetivo
+
+![ftp7](imagenes/ftp7.png)
+
+Investigando el archivo .pcap con el siguiente comando:
+
+_“sudo snort -c local.rules -A full -l . -r ftp-png-gif.pcap”_
+
+podremos saber la respuesta y podemos ver que son 41 fallos de login dentro del FTP
