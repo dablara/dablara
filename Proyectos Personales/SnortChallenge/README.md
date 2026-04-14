@@ -218,3 +218,9 @@ el cual nos permitirá ver la información del archivo en líneas.
 Como observamos, en la primera línea nos aparecerá la respuesta a la pregunta.
 
 ![ftp4](imagenes/ftp4.png)
+
+Y podemos certificar que es la respuesta correcta
+
+![ftp5](imagenes/ftp5.png)
+
+## Pregunta 3 Reto 2
