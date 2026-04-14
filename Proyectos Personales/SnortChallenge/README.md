@@ -18,7 +18,7 @@
      - [Pregunta 4 Reto 2](#pregunta-4-reto-2)
      - [Pregunta 5 Reto 2](#pregunta-5-reto-2)
      - [Pregunta 6 Reto 2](#pregunta-6-reto-2)
-     - [Conclusion Reto 2](#conclusión-segundo-reto)
+     - [Conclusion Segundo Reto ](#conclusión-segundo-reto)
 ## Preámbulo
 El análisis de tráfico de red en tiempo real es una habilidad esencial en ciberseguridad.
 Snort, como sistema de detección de intrusos (IDS), permite monitorear, registrar y
@@ -302,5 +302,5 @@ Y la respuesta correcta es “7”.
 
 ![ftp21](imagenes/ftp21.png)
 
-## Conclusión Reto 2
+## Conclusión Segundo Reto
 En esta segunda parte, el análisis del tráfico FTP se puso en marcha empleando Snort; y, claro, los archivos de registros fueron estudiados a fondo, para identificar y entender las interacciones de este protocolo. ¡Vaya! Así se ha logrado familiarizarse con la detección de eventos FTP y el uso de reglas ad hoc para monitorear el tráfico de forma efectiva.
