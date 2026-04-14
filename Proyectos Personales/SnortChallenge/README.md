@@ -247,4 +247,7 @@ Y asi podemos contestar la pregunta
 
 ![ftp9](imagenes/ftp9.png)
 
-## Pregunta 4 Reto 2
+## Pregunta 4 Reto 
+En esta pregunta, tendremos que escribir una regla para captura los logins existosos.
+
+![ftp10](imagenes/ftp10.png)
