@@ -13,6 +13,8 @@
      - [Conclusión Primer reto](#conclusión-primer-reto)
    - [Reto 2 Analizando Tráfico FTP](#reto-2---analizando-trafico-grp)
      - [Pregunta 1 Reto 2](#pregunta-1-reto-2)
+     - [Pregunta 2 Reto 2](#pregunta-2-reto-2)
+     - [Pregunta 3 Reto 2](#pregunta-3-reto-2)
 ## Preámbulo
 El análisis de tráfico de red en tiempo real es una habilidad esencial en ciberseguridad.
 Snort, como sistema de detección de intrusos (IDS), permite monitorear, registrar y
