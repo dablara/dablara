@@ -227,3 +227,4 @@ En la siguiente pregunta, se nos pide que fijemos una regla que detecte los inte
 
 *Es bueno que comentes o elimines la regla anterior, para que sea la nueva la se aplique.
 
+![ftp6](imagenes/ftp6.png)
