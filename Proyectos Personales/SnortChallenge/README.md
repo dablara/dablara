@@ -237,4 +237,6 @@ Escribiremos la siguiente reglas, para conseguir el objetivo
 
 Investigando el archivo .pcap con el siguiente comando:
 
-***“sudo snort -c local.rules -A full -l . -r ftp-png-gif.pcap”*** podremos saber la respuesta y podemos ver que son 41 fallos de login dentro del FP
+***“sudo snort -c local.rules -A full -l . -r ftp-png-gif.pcap”*** 
+
+podremos saber la respuesta y podemos ver que son 41 fallos de login dentro del FP
