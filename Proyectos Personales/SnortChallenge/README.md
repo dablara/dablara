@@ -223,3 +223,7 @@ Y podemos certificar que es la respuesta correcta
 ![ftp5](imagenes/ftp5.png)
 
 ## Pregunta 3 Reto 2
+En la siguiente pregunta, se nos pide que fijemos una regla que detecte los intentos fallidos de login dentro del FTP.
+
+*Es bueno que comentes o elimines la regla anterior, para que sea la nueva la se aplique.
+
