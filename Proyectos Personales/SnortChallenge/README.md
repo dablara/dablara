@@ -15,6 +15,10 @@
      - [Pregunta 1 Reto 2](#pregunta-1-reto-2)
      - [Pregunta 2 Reto 2](#pregunta-2-reto-2)
      - [Pregunta 3 Reto 2](#pregunta-3-reto-2)
+     - [Pregunta 4 Reto 2](#pregunta-4-reto-2)
+     - [Pregunta 5 Reto 2](#pregunta-5-reto-2)
+     - [Pregunta 6 Reto 2](#pregunta-6-reto-2)
+     - [Conclusion Reto 2](#conclusión-segundo-reto)
 ## Preámbulo
 El análisis de tráfico de red en tiempo real es una habilidad esencial en ciberseguridad.
 Snort, como sistema de detección de intrusos (IDS), permite monitorear, registrar y
@@ -255,3 +259,48 @@ En esta pregunta, tendremos que escribir una regla para captura los logins exist
 Escribimos la siguiente regla
 
 ![ftp11](imagenes/ftp11.png)
+
+Si con esta regla investigamos el archivo .pcap, podemos ver que son “1” los logins existosos al FTP.
+
+![ftp12](imagenes/ftp12.png)
+
+Y podemos comprobar que la respuesta es la correcta
+
+![ftp13](imagenes/ftp13.png)
+
+## Pregunta 5 Reto 2
+La pregunta que sigue es esta: “Escribe una regla para detectar intentos de inicio de sesión FTP con un nombre de usuario válido pero sin que se haya ingresado la contraseña todavía”.
+
+![ftp14](imagenes/ftp14.png)
+
+Escribiremos la regla siguiente
+
+![ftp15](imagenes/ftp15.png)
+
+Si investigamos el archivo, podemos ver que son “42” los intentos de login.
+
+![ftp16](imagenes/ftp16.png)
+
+Y la respuesta es correcta
+
+![ftp17](imagenes/ftp17.png)
+
+## Pregunta 6 Reto 2 
+En esta pregunta se nos pregunta lo siguiente: : “Escribe una regla para detectar intentos de inicio de sesión FTP con el usuario Administrador pero sin que se haya ingresado la contraseña todavía”.
+
+![ftp18](imagenes/ftp18.png)
+
+Escribimos la regla y analizamos él .pcap
+
+![ftp19](imagenes/ftp19.png)
+
+Investigando el archivo podemos ver que son 7 los logins existosos sin contraseña del usuario Administrador.
+
+![ftp20](imagenes/ftp20.png)
+
+Y la respuesta correcta es “7”.
+
+![ftp21](imagenes/ftp21.png)
+
+## Conclusión Reto 2
+En esta segunda parte, el análisis del tráfico FTP se puso en marcha empleando Snort; y, claro, los archivos de registros fueron estudiados a fondo, para identificar y entender las interacciones de este protocolo. ¡Vaya! Así se ha logrado familiarizarse con la detección de eventos FTP y el uso de reglas ad hoc para monitorear el tráfico de forma efectiva.
