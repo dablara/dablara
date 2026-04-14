@@ -207,6 +207,14 @@ Sabiendo esto, escribiremos la siguiente regla, dicha regla captura todo el trá
 ## Pregunta 2 Reto 2
 Ahora nos enfrentamos a la siguiente pregunta.
 Tendremos que investigar el archivo log generado en la primera pregunta, para responder esta
+
 Nos tendremos que fijar en que servicio de FTP es el estamos investigando.
 
 ![ftp3](imagenes/ftp3.png)
+
+Para que la visualización del archivo sea más ordenada, usaremos el comando “strings”,
+el cual nos permitirá ver la información del archivo en líneas.
+
+Como observamos, en la primera línea nos aparecerá la respuesta a la pregunta.
+
+![ftp4](imagenes/ftp4.png)
