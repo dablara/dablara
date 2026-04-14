@@ -203,3 +203,10 @@ En este primera pregunta, tenemos la siguiente premisa: “Escribe una simple re
 Sabiendo esto, escribiremos la siguiente regla, dicha regla captura todo el tráfico TCP que pasa por el puerto 21
 
 ![ftp2](imagenes/ftp2.png)
+
+## Pregunta 2 Reto 2
+Ahora nos enfrentamos a la siguiente pregunta.
+Tendremos que investigar el archivo log generado en la primera pregunta, para responder esta
+Nos tendremos que fijar en que servicio de FTP es el estamos investigando.
+
+![ftp3](imagenes/ftp3.png)
