@@ -27,7 +27,7 @@ Informática del centro escolar
   * Automatización con scripts: Desarrollo de scripts para incorporación automática en GLPI, mejorando eficiencia y reduciendo errores.
   * Gestión de incidencias: Diseño e implementación de un sistema en GLPI para registro y seguimiento eficiente de incidencias.
 
-## 🚀✨ [Proyectos Personales](https://github.com/dablara/dablara/tree/main/Proyectos%20Personales/Pi-HoleRaspberryPi)
+## 🚀✨ [Proyectos Personales](https://github.com/dablara/dablara/tree/main/Proyectos%20Personales)
 ### 🕵️‍♂️💻      WriteUp SnortChallenge - TryHackMe 
 ### 🍓🕳️  [   Pihole en Raspberry pi  ](https://github.com/dablara/dablara/blob/main/Proyectos%20Personales%2FPi-HoleRaspberryPi%2FREADME.md)
  * Despliegue e instalación de Pi-hole en la red doméstica
