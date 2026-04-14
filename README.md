@@ -38,7 +38,6 @@ Informática del centro escolar
 * [Mi Linkedin](https://es.linkedin.com/in/dablara)
 
 ## Licencia 
-# License
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
