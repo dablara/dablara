@@ -243,3 +243,8 @@ Podremos saber la respuesta y podemos ver que son 41 fallos de login dentro del 
 
 ![ftp8](imagenes/ftp8.png)
 
+Y asi podemos contestar la pregunta
+
+![ftp9](imagenes/ftp9.png)
+
+## Pregunta 4 Reto 2
