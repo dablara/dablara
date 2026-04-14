@@ -198,4 +198,4 @@ Esta vez, tendremos tráfico FTP que analizar, al igual, en el primer reto, habr
 ## Pregunta 1 Reto 2
 En este primera pregunta, tenemos la siguiente premisa: “Escribe una simple regla que detecta todo el tráfico TCP por el puerto 21”.
 
-![ftp1](imagenes/ftp1)
+![ftp1](imagenes/ftp1.png)
