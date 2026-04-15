@@ -36,7 +36,7 @@ varios archivos que contienen comunicaciones de diferentes protocolos de red.
 Mediante la creación y aplicación de reglas, y utilizando Snort como sistema de detección y análisis, podremos inspeccionar y analizar ese tráfico en tiempo real para identificar eventos relevantes y entender el comportamiento de la red.
 
 ![Escenario](imagenes/escenario.png)
-## Reto 1 - Analizando Trafico HTTP
+## Reto 1 - Analizando Tráfico HTTP
 En este primer reto se nos presentan dos archivos: un archivo .pcap, que contiene los datos capturados del tráfico de red, y un archivo de reglas locales (“local.rules”), en el cual escribiremos las reglas necesarias para analizar dicho tráfico utilizando Snort
 
 ![Reto 1](imagenes/reto1.png)
