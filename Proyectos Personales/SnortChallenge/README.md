@@ -353,5 +353,3 @@ Una vez sepamos la respuesta, iremos a la pregunta del reto y confirmaremos que 
 ## Conclusión Reto 3
 El análisis permitió identificar con claridad la transferencia del archivo PNG dentro del tráfico capturado y verificar que las reglas configuradas detectan este tipo de contenido. 
 Esto contribuye a comprender mejor el comportamiento del archivo en la red y a validar la eficacia del sistema de monitoreo.
-
-## Reto 4 - Analizando archivos Torrent
