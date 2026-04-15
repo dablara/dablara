@@ -21,6 +21,8 @@
      - [Conclusion Segundo Reto ](#conclusión-segundo-reto)
    - [Reto 3 - Analizando PNG](#reto-3---analizando-png)
      - [Pregunta 1 Reto 3](#pregunta-1-reto-3)
+     - [Pregunta 2 Reto 3](#pregunta2-reto-3)
+     - [Conclusión Reto 3](#conclusion-reto-3)
 ## Preámbulo
 El análisis de tráfico de red en tiempo real es una habilidad esencial en ciberseguridad.
 Snort, como sistema de detección de intrusos (IDS), permite monitorear, registrar y
@@ -330,3 +332,24 @@ Vamos a la pregunta y vemos, que efectivamente ese era la respuesta que buscába
 ![PNG4](imagenes/png4.png)
 
 ## Pregunta 2 Reto 3
+En esta pregunta, nos pide escribamos una nueva regla para investigar los logs en busca del forma embebido de la imagen dentro del paquete.
+
+![PNG5](imagenes/png5.png)
+
+Escribiremos las reglas necesarias para realizar la tarea que nos pide
+
+![PNG6](imagenes/png6.png)
+
+Usaremos el mismo comando que usamos en la pregunta anterior junto al archivo log.
+
+Nos damos cuenta de que el formato es ***“GIF89a”***.
+
+![PNG7](imagenes/png7.png)
+
+Una vez sepamos la respuesta, iremos a la pregunta del reto y confirmaremos que es la respuesta correcta.
+
+![PNG8](imagenes/png8.png)
+
+## Conclusión Reto 3
+El análisis permitió identificar con claridad la transferencia del archivo PNG dentro del tráfico capturado y verificar que las reglas configuradas detectan este tipo de contenido. Esto contribuye a comprender mejor el comportamiento del archivo en la
+red y a validar la eficacia del sistema de monitoreo.
