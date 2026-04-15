@@ -6,7 +6,7 @@
 
 ## Hola me presento 👋
 Soy Daniel Me dedico a la Administración de Sistemas,
-Tengo formación en Servidores y Ciberseguridad y todo lo que engloba a estos
+Tengo formación en Servidores y Ciberseguridad y todo lo que engloba a estos.
 
 Con ganas de tener una oportunidad de demostrar mis habilidades en el sector, he adquirido experiencia práctica en diversas áreas relacionadas. 
 
