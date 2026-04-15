@@ -314,3 +314,8 @@ Graphics)***
 ## Pregunta 1 Reto 3
 En este primera pregunta, investigaremos el software incrustado utilizado.
 ![PNG1](imagenes/png1.png)
+Primero como siempre pondremos la regla necesaria, para el trabajo
+![PNG2](imagenes/png2.png)
+Despues de haber escrito la regla necesaria, usaremos este comando ***“sudo strings ftp-png-gif.pcap”***, para extraer de forma legible información que pueda estar dentro del
+archivo pcap.
+Si leemos detenidamente, nos damos cuenta de que, se atisba el nombre de un programa ***“Adobe Image Reday”***, deducimos asi, que este es el programa que se uso.
