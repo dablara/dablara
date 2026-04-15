@@ -308,8 +308,8 @@ Y la respuesta correcta es “7”.
 En esta segunda parte, el análisis del tráfico FTP se puso en marcha empleando Snort; y, claro, los archivos de registros fueron estudiados a fondo, para identificar y entender las interacciones de este protocolo. ¡Vaya! Así se ha logrado familiarizarse con la detección de eventos FTP y el uso de reglas ad hoc para monitorear el tráfico de forma efectiva.
 
 ## Reto 3 - Analizando PNG
-En este apartado analizaremos archivos PNG(Portable Network 
-Graphics)
+En este apartado analizaremos archivos ***PNG(Portable Network 
+Graphics)***
 
 ## Pregunta 1 Reto 3
 En este primera pregunta, investigaremos el software incrustado utilizado.
