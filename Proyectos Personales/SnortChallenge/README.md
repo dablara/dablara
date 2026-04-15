@@ -11,7 +11,7 @@
      - [Pregunta 6 Reto 1](#pregunta-6-reto-1)
      - [Pregunta 7 Reto 1](#pregunta-7-reto-1)
      - [Conclusión Primer reto](#conclusión-primer-reto)
-   - [Reto 2 Analizando Tráfico FTP](#reto-2---analizando-trafico-ftp)
+   - [Reto 2 - Analizando Tráfico FTP](#reto-2---analizando-trafico-ftp)
      - [Pregunta 1 Reto 2](#pregunta-1-reto-2)
      - [Pregunta 2 Reto 2](#pregunta-2-reto-2)
      - [Pregunta 3 Reto 2](#pregunta-3-reto-2)
@@ -19,7 +19,8 @@
      - [Pregunta 5 Reto 2](#pregunta-5-reto-2)
      - [Pregunta 6 Reto 2](#pregunta-6-reto-2)
      - [Conclusion Segundo Reto ](#conclusión-segundo-reto)
-   - [Reto 3 Analizando PNG’s](#reto-3---analizando-png's)
+    - [Reto 3 - Analizando PNG
+   (#reto-3---analizando-png)
 ## Preámbulo
 El análisis de tráfico de red en tiempo real es una habilidad esencial en ciberseguridad.
 Snort, como sistema de detección de intrusos (IDS), permite monitorear, registrar y
@@ -306,7 +307,7 @@ Y la respuesta correcta es “7”.
 ## Conclusión Segundo Reto
 En esta segunda parte, el análisis del tráfico FTP se puso en marcha empleando Snort; y, claro, los archivos de registros fueron estudiados a fondo, para identificar y entender las interacciones de este protocolo. ¡Vaya! Así se ha logrado familiarizarse con la detección de eventos FTP y el uso de reglas ad hoc para monitorear el tráfico de forma efectiva.
 
-## 3º Reto Analizando PNG’s
+## Reto 3 -  Analizando PNG
 En este apartado analizaremos archivos PNG(Portable Network 
 Graphics)
 
