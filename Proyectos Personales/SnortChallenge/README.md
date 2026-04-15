@@ -2,7 +2,7 @@
  ## Índice
    - [Preámbulo](#preámbulo)
    - [Escenario](#escenario)
-   - [Reto 1 - Analizando Trafico HTTP](#reto-1---analizando-trafico-http)
+   - [Reto 1 - Analizando Tráfico HTTP](#reto-1---analizando-trafico-http)
      - [Pregunta 1 Reto 1](#pregunta-1-reto-1)
      - [Pregunta 2 Reto 1](#pregunta-2-reto-1)
      - [Pregunta 3 Reto 1](#pregunta-3-reto-1)
