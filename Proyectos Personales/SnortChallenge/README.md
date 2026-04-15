@@ -200,7 +200,7 @@ Snort y el análisis de archivo de logs para analizar dicho tráfico.
 
 Permitiendo asi familiarizarse con el uso de esta herramienta.
 
-## Reto 2 Analizando Tráfico FTP
+## Reto 2 - Analizando Tráfico FTP
 Esta vez, tendremos tráfico FTP que analizar, al igual, en el primer reto, habrá un archivo .pcap y un archivo local rules.
 ## Pregunta 1 Reto 2
 En este primera pregunta, tenemos la siguiente premisa: “Escribe una simple regla que detecta todo el tráfico TCP por el puerto 21”.
