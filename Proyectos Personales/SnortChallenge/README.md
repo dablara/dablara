@@ -313,3 +313,4 @@ Graphics)***
 
 ## Pregunta 1 Reto 3
 En este primera pregunta, investigaremos el software incrustado utilizado.
+![PNG1](imagenes/png1.png)
