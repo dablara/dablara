@@ -304,3 +304,5 @@ Y la respuesta correcta es “7”.
 
 ## Conclusión Segundo Reto
 En esta segunda parte, el análisis del tráfico FTP se puso en marcha empleando Snort; y, claro, los archivos de registros fueron estudiados a fondo, para identificar y entender las interacciones de este protocolo. ¡Vaya! Así se ha logrado familiarizarse con la detección de eventos FTP y el uso de reglas ad hoc para monitorear el tráfico de forma efectiva.
+
+## 3º Reto Analizando PNG’s
