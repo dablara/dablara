@@ -1,6 +1,5 @@
-<p align="center">
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dablara&theme=aura-dark)](https://git.io/streak-stats)
-</p>
+
  
 ## Hola me presento 👋
 Soy Daniel Me dedico a la Administración de Sistemas,
