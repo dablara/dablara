@@ -363,3 +363,7 @@ En este reto trabajaremos con archivos torrents.
 En esta pregunta, se nos pide que averigüemos, mediante una regla de paquetes detectados.
 
 ![torrent1](imagenes/torrent1.png)
+
+Para ello escribiremos la siguiente regla
+
+![torrent2](imagenes/torrent2.png)
