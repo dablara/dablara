@@ -371,3 +371,7 @@ Para ello escribiremos la siguiente regla
 Escribimos este comando, que servirá para crear un archivo de log del documento pcap, para poder responder la pregunta actual y las siguientes.
 
 ![torrent3](imagenes/torrent3.png)
+
+Cuando ejecutamos el comando se nos presenta un resumen del paquetes, si bajamos hasta el final podremos ver el número de paquetes detectados, que ente caso son “2”.
+
+![torrent4](imagenes/torrent4.png)
