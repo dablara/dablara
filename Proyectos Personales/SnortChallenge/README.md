@@ -380,3 +380,6 @@ Y podemos ver que efectivamente esa era la respuesta
 
 ![torrent5](imagenes/torrent5.png)
 
+## Pregunta 2 Reto 4
+En esta pregunta se nos pide, cual es la aplicación desde la cual se han descargado los torrents.
+
