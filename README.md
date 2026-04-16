@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=dablara&theme=blood-dark&locale=es" />
-  </a>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dablara&theme=aura-dark)](https://git.io/streak-stats)
 </p>
  
 ## Hola me presento 👋
