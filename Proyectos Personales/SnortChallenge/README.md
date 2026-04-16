@@ -23,6 +23,7 @@
      - [Pregunta 1 Reto 3](#pregunta-1-reto-3)
      - [Pregunta 2 Reto 3](#pregunta2-reto-3)
      - [Conclusión Reto 3](#conclusion-reto-3)
+   - [Reto 4 - Analizando archivos Torrent](#reto-4---analizando-archivos-torrent)
 ## Preámbulo
 El análisis de tráfico de red en tiempo real es una habilidad esencial en ciberseguridad.
 Snort, como sistema de detección de intrusos (IDS), permite monitorear, registrar y
@@ -353,3 +354,9 @@ Una vez sepamos la respuesta, iremos a la pregunta del reto y confirmaremos que 
 ## Conclusión Reto 3
 El análisis permitió identificar con claridad la transferencia del archivo PNG dentro del tráfico capturado y verificar que las reglas configuradas detectan este tipo de contenido. 
 Esto contribuye a comprender mejor el comportamiento del archivo en la red y a validar la eficacia del sistema de monitoreo.
+
+## Reto 4 - Analizando archivos Torrent
+
+En este reto trabajaremos con archivos torrents.
+
+## Pregunta 1 Reto 4
