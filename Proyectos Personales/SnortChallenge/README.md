@@ -360,3 +360,4 @@ Esto contribuye a comprender mejor el comportamiento del archivo en la red y a v
 En este reto trabajaremos con archivos torrents.
 
 ## Pregunta 1 Reto 4
+En esta pregunta, se nos pide que averigüemos, mediante una regla de paquetes detectados.
