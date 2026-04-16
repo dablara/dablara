@@ -367,3 +367,7 @@ En esta pregunta, se nos pide que averigüemos, mediante una regla de paquetes d
 Para ello escribiremos la siguiente regla
 
 ![torrent2](imagenes/torrent2.png)
+
+Escribimos este comando, que servirá para crear un archivo de log del documento pcap, para poder responder la pregunta actual y las siguientes.
+
+![torrent3](imagenes/torrent3.png)
