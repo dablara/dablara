@@ -376,6 +376,7 @@ Cuando ejecutamos el comando se nos presenta un resumen del paquetes, si bajamos
 
 ![torrent4](imagenes/torrent4.png)
 
-Y podemos ver que efectivamente esa era la respuesta.
+Y podemos ver que efectivamente esa era la respuesta
 
 ![torrent5](imagenes/torrent5.png)
+
