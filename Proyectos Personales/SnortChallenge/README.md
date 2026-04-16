@@ -361,3 +361,5 @@ En este reto trabajaremos con archivos torrents.
 
 ## Pregunta 1 Reto 4
 En esta pregunta, se nos pide que averigüemos, mediante una regla de paquetes detectados.
+
+![torrent1](imagenes/torrent1.png)
