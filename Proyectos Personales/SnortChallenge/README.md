@@ -375,3 +375,7 @@ Escribimos este comando, que servirá para crear un archivo de log del documento
 Cuando ejecutamos el comando se nos presenta un resumen del paquetes, si bajamos hasta el final podremos ver el número de paquetes detectados, que ente caso son “2”.
 
 ![torrent4](imagenes/torrent4.png)
+
+Y podemos ver que efectivamente esa era la respuesta.
+
+![torrent5](imagenes/torrent5.png)
