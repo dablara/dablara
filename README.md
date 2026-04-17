@@ -1,6 +1,12 @@
 <div align="center">
 
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dablara&show_icons=true&theme=tokyonight&cache_seconds=86400)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dablara&layout=compact&theme=tokyonight)
+
+</div>
 
 </div>
  
