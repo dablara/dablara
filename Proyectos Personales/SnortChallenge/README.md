@@ -418,4 +418,4 @@ Y asi vemos que la respuesta era correcta.
 ![torrent11](imagenes/torrent11.png)
 
 ## Conclusión Reto 4
-En este caso, el análisis nos ha servido para responder de manera efectiva el reto relacionado con archivos y logs de Torrents
+En este caso, el análisis nos ha servido para responder de manera efectiva el reto relacionado con archivos y logs de Torrents.
