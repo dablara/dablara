@@ -1,6 +1,6 @@
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dablara&theme=buefy-dark)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dablara&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 </div>
  
