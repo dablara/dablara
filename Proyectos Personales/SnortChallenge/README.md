@@ -26,6 +26,8 @@
    - [Reto 4 - Analizando archivos Torrent](#reto-4---analizando-archivos-torrent)
      - [Pregunta 1 Reto 4](#pregunta-1-reto-4)
      - [Pregunta 2 Reto 4](#pregunta-2-reto-4)
+     - [Pregunta 3 Reto 4](#pregunta-3-reto-4)
+     - [Conclusión Reto 4](#conclusion-reto-4)
 ## Preámbulo
 El análisis de tráfico de red en tiempo real es una habilidad esencial en ciberseguridad.
 Snort, como sistema de detección de intrusos (IDS), permite monitorear, registrar y
@@ -387,3 +389,33 @@ En esta pregunta se nos pide, cual es la aplicación desde la cual se han descar
 
 ![torrent6](imagenes/torrent6.png)
 
+Gracias al archivo de logs, que conseguimos en la anterior pregunta y gracias al comando strings podremos contestar a esta pregunta.
+
+De esta forma sabemos que la aplicación es ***“bittorrent”***.
+
+![torrent7](imagenes/torrent7.png)
+
+Vemos que la respuesta es la correcta.
+
+![torrent8](imagenes/torrent8)
+
+## Pregunta 3 Reto 4
+En esta ocasión se nos presenta la siguiente pregunta
+
+“¿Cuál es el nombre de host del metarchivo (metafile) del torrent?”
+
+![torrent9](imagenes/torrent9.png)
+
+Para saber la respuesta, solo tenemos que investigar el archivo de log que ya teníamos
+
+Si nos seguimos, en el apartado de “Host”, tendremos la respuesta:
+***“tracker2.torrentboxx.com:2710”***
+
+![torrent10](imagenes/torrent10.png)
+
+Y asi vemos que la respuesta era correcta.
+
+![torrent11](imagenes/torrent11.png)
+
+## Conclusión Reto 4
+En este caso, el análisis nos ha servido para responder de manera efectiva el reto relacionado con archivos y logs de Torrents.
